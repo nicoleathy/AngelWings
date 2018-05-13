@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "294048816047",
+    "firebase_url": "https://angel-wings-6ad70.firebaseio.com",
+    "project_id": "angel-wings-6ad70",
+    "storage_bucket": "angel-wings-6ad70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294048816047:android:35ad4f452802e516",
+        "android_client_info": {
+          "package_name": "com.example.nicoleteo.angelwings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294048816047-fv5atfrkv7640b4io5mhndtamneu08c6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nicoleteo.angelwings",
+            "certificate_hash": "0b9602b29d1f8ec21b56ad96485c7c59ae5a012c"
+          }
+        },
+        {
+          "client_id": "294048816047-v4u9ru26ha8211sabbbeo289gdn4bsr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEu8bz2YcKPpWoFsgYQNnzR42WpaKcg8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294048816047-v4u9ru26ha8211sabbbeo289gdn4bsr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
